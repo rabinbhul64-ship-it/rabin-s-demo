@@ -1,2 +1,2 @@
 # rabin-s-demo
-This is my first my repository.
+This is my first my Git repository.
